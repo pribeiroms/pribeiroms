@@ -12,6 +12,9 @@ Me chamo Paula, tenho 19 anos e sou estudante do 3° semestre de Ciência da Com
 <img  align= "left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
 <img  align= "left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
+<br/>
+<br/>
+
 ---
 
 ### 📊 Estatísticas        
