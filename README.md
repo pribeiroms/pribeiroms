@@ -19,4 +19,11 @@ Me chamo Paula, tenho 19 anos e sou estudante do 3° semestre de Ciência da Com
 
 ### 📊 Estatísticas            
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&theme=midnight-purple&layout=donut&custom_title=Tecnologias)](https://github.com/pribeiroms/github-readme-stats)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&theme=midnight-purple&layout=donut&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
