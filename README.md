@@ -1,4 +1,4 @@
-<img width="802" height="667" alt="image" src="https://github.com/user-attachments/assets/b6b94aee-ef47-4bde-be8e-97550d9279a8" /># ☽ Paula Ribeiro ☾
+# ☽ Paula Ribeiro ☾
 
 **`Fullstack Developer`**
 
@@ -13,9 +13,11 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
+### Frameworks / Plataformas
 
+<img align="left" alt="Apex" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
+### Banco de Dados
           
           
 
