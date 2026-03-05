@@ -7,7 +7,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ---
 
-### ❥ Linguagens e Tecnologias
+## ❥ Linguagens e Tecnologias
 
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -22,7 +22,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ---
 
-### Banco de Dados
+#### Banco de Dados
           
           
 
