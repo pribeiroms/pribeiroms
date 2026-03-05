@@ -1,13 +1,13 @@
-# 🖥️ Paula Ribeiro
+# Paula Ribeiro
 
 **`Fullstack Developer`**
 
-Paula Ribeiro | Estudante de Ciência da Computação no Centro Universitário IESB.  
+Estudante de Ciência da Computação no Centro Universitário IESB.  
 Apaixonada por tecnologia e programação, sempre buscando aprender, explorar novas ideias e desenvolver projetos que contribuam para o meu crescimento como desenvolvedora.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ❥ Linguagens e Tecnologias
 
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -18,7 +18,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ---
 
-### 📊 Estatísticas
+### ❥ Estatísticas
 
 <p align="left">
   <img 
