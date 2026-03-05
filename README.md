@@ -2,7 +2,8 @@
 
 **`Fullstack Developer`**
 
-Me chamo Paula, tenho 19 anos e sou estudante do 3° semestre de Ciência da Computação no Centro Universitário IESB. Sou apaixonada por tecnologia e estou sempre aprimorando minhas habilidades em programação. Sempre aprendendo e explorando novas soluções para criar projetos cada vez melhores.
+Paula Ribeiro | Estudante de Ciência da Computação no Centro Universitário IESB.
+Apaixonada por tecnologia e programação, sempre buscando aprender, explorar novas ideias e desenvolver projetos que contribuam para o meu crescimento como desenvolvedora.
 
 ---
 ### 🤖 Linguagens e Tecnologias
