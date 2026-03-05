@@ -1,4 +1,4 @@
-# ☽ Paula Ribeiro ☾
+## ☽ Paula Ribeiro ☾
 
 **`Fullstack Developer`**
 
