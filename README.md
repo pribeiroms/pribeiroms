@@ -20,11 +20,11 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### 📊 Estatísticas            
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&theme=midnight-purple&layout=donut&custom_title=Tecnologias&langs_count=9" 
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeirons&theme=midnight-purple&layout=compact&langs_count=9"
   />
-
 </p>
