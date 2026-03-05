@@ -1,5 +1,5 @@
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
-<img src="https://i.pinimg.com/736x/15/da/e6/15dae6ba313b6cf0fb447df726426973.jpg" width="500">
+<img src="https://i.pinimg.com/736x/15/da/e6/15dae6ba313b6cf0fb447df726426973.jpg" width="700" height="200">
 
 **`Fullstack Developer`**
 
