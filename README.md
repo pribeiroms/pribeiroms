@@ -9,27 +9,18 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
-<br/>
-<br/>
-<br/>
+<br><br><br>
 
 ---
 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple&cache_seconds=1800"
-  />
-  
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple&cache_seconds=1800"
-  />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple"/>
 </p>
