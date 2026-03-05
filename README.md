@@ -21,12 +21,14 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 <img align="left" alt="Apex" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
 <br><br>
+
 ---
 
 #### Banco de Dados
 
 
 <br><br>
+
 ---
 
 ### ❥ Estatísticas
