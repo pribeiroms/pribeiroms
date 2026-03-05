@@ -1,4 +1,4 @@
-<!-- título principal -->
+<img width="637" height="622" alt="image" src="https://github.com/user-attachments/assets/f2f29210-4abc-4841-849e-333dd298e2f6" /><!-- título principal -->
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
 
 ---
@@ -13,7 +13,7 @@
 <img src="https://i.pinimg.com/1200x/09/ef/92/09ef92362b073d2cb11a86d6e5e45aca.jpg" width="100" height="100">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="100" height="100">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="100" height="100">
-<img src="https://i.pinimg.com/1200x/5f/9f/91/5f9f9158897244e7fa79e96cdd4dded7.jpg" width="100" height="100">
+<img src="https://i.pinimg.com/736x/5c/37/29/5c3729c2665d02453c7e2875a128c1e9.jpg" width="100" height="100">
 </p>
 
 --- 
@@ -47,8 +47,8 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 #### Banco de Dados
 
-<img  align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img  align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
        
 <br><br>
 
@@ -56,10 +56,10 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 <br><br>
 
