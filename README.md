@@ -21,14 +21,13 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&layout=pie&theme=midnight-purple"/>
-</p>
-
----
-
-### 🏆 Conquistas
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pribeiroms&theme=discord&no-frame=true&row=1&column=6"/>
+  <img 
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"
+  />
+  
+  <img 
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple"
+  />
 </p>
