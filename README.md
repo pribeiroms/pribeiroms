@@ -32,11 +32,3 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=pribeiroms&theme=discord&no-frame=true&row=1&column=6"/>
 </p>
-
----
-
-### 📈 Atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pribeiroms&theme=github-compact"/>
-</p>
