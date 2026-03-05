@@ -1,4 +1,5 @@
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
+<img src="https://wallpaperaccess.com/full/2349087.jpg" width="500">
 
 **`Fullstack Developer`**
 
