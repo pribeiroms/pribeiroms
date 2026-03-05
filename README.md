@@ -20,7 +20,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="right">
   <img 
     height="170"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"
