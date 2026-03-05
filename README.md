@@ -1,4 +1,6 @@
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
+
+<p>
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="150" height="150">
 <img src="https://i.pinimg.com/1200x/49/42/b8/4942b8dd880f89c0e1a690f71f37bba5.jpg" width="150" height="150">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="150" height="150">
@@ -7,6 +9,7 @@
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="150" height="150">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="150" height="150">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="150" height="150">
+</p>
 
 **`Fullstack Developer`**
 
