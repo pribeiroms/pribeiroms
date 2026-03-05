@@ -25,6 +25,6 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeirons&theme=midnight-purple&layout=compact&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&theme=midnight-purple&layout=compact&langs_count=9"
   />
 </p>
