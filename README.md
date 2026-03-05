@@ -1,4 +1,4 @@
-## ☽ Paula Ribeiro ☾
+## Olá mundo! Eu sou Paula Ribeiro
 
 **`Fullstack Developer`**
 
@@ -22,6 +22,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 <img align="left" alt="Apex" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
 <img  align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+
 <br><br>
 
 ---
@@ -30,9 +31,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 <img  align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img  align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-          
-          
+       
 <br><br>
 
 ---
@@ -43,6 +42,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
 <br><br>
 
 ---
