@@ -9,10 +9,10 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="C" title="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <br><br><br>
 
@@ -21,13 +21,22 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"
-  />
-  
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&layout=donut&theme=midnight-purple"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pribeiroms&layout=pie&theme=midnight-purple"/>
+</p>
+
+---
+
+### 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pribeiroms&theme=discord&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 📈 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pribeiroms&theme=github-compact"/>
 </p>
