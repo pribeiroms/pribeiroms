@@ -10,11 +10,9 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 ### ❥ Linguagens e Tecnologias
 
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-          
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
           
 <br><br>
 
@@ -23,15 +21,16 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 ### Frameworks / Plataformas
 
 <img align="left" alt="Apex" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img  align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <br><br>
 
 ---
 
 #### Banco de Dados
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img  align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img  align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
           
           
 <br><br>
@@ -40,10 +39,13 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### Ferramentas
 
-git
-github
-vs code
-figma
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<br><br>
+
+---
 
 ### ❥ Estatísticas
 
