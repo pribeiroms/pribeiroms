@@ -1,4 +1,4 @@
-<img width="637" height="622" alt="image" src="https://github.com/user-attachments/assets/f2f29210-4abc-4841-849e-333dd298e2f6" /><!-- título principal -->
+<!-- título principal -->
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
 
 ---
