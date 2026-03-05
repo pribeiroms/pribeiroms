@@ -18,10 +18,14 @@
 
 --- 
 <h2 align="center"> Sobre mim </h2>
+<p align="center">
+
 **`Fullstack Developer`**
 
 Estudante de Ciência da Computação no Centro Universitário IESB.  
 Apaixonada por tecnologia e programação, sempre buscando aprender, explorar novas ideias e desenvolver projetos que contribuam para o meu crescimento como desenvolvedora.
+
+</p>
 
 ---
 
