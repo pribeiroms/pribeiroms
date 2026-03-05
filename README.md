@@ -1,5 +1,7 @@
+<!-- título principal -->
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
 
+<!-- imagens -->
 <p align="center">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="100" height="100">
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="100" height="100">
@@ -12,6 +14,10 @@
 <img src="https://i.pinimg.com/736x/1f/30/25/1f3025031b3c845cef5c1aa9e644bd36.jpg" width="100" height="100">
 </p>
 
+<br><br>
+
+--- 
+### Sobre mim
 **`Fullstack Developer`**
 
 Estudante de Ciência da Computação no Centro Universitário IESB.  
@@ -19,7 +25,7 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ---
 
-### ❥ Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
