@@ -13,7 +13,6 @@
 <img src="https://i.pinimg.com/736x/b8/c6/e2/b8c6e2f09bdb8cca9729657525c4d969.jpg" width="100" height="100">
 <img src="https://i.pinimg.com/736x/3d/af/b9/3dafb9e4abaf7beed2bb7d9ecf248da7.jpg" width="100" height="100">
 <img src="https://i.pinimg.com/736x/5c/37/29/5c3729c2665d02453c7e2875a128c1e9.jpg" width="100" height="100">
-<img src="https://i.pinimg.com/736x/81/a2/11/81a211bb967ef9b414a60b34282fa95c.jpg" width="100" height="100">
 </p>
 
 --- 
