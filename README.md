@@ -9,7 +9,8 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 ### ❥ Linguagens e Tecnologias
 
-<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+          
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -29,10 +30,20 @@ Apaixonada por tecnologia e programação, sempre buscando aprender, explorar no
 
 #### Banco de Dados
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
+          
 <br><br>
 
 ---
+
+### Ferramentas
+
+git
+github
+vs code
+figma
 
 ### ❥ Estatísticas
 
