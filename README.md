@@ -1,9 +1,7 @@
-<!-- título principal -->
 <h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
 
 ---
 
-<!-- imagens -->
 <p align="center">
 <img src="https://i.pinimg.com/736x/1a/e9/c3/1ae9c3f74c3dd90c5757436e696d215b.jpg" width="100" height="100">
 <img src="https://i.pinimg.com/736x/0c/85/cb/0c85cb523bf0cbc841ea9d3a9dab5cd8.jpg" width="100" height="100">
@@ -15,7 +13,8 @@
 <img src="https://i.pinimg.com/736x/5c/37/29/5c3729c2665d02453c7e2875a128c1e9.jpg" width="100" height="100">
 </p>
 
---- 
+---
+
 <h2 align="center"> Sobre mim </h2>
 
 <div align="center">
