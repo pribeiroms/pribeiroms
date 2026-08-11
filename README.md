@@ -63,7 +63,7 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
 </p>
 
 ---
-
+<!--
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
@@ -77,3 +77,4 @@ height="170"
 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple"
 />
 </p>
+-->
