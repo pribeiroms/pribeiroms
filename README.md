@@ -61,6 +61,7 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
   <img alt="Postman" title="Postman" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;&nbsp;
   <img alt="Figma" title="Figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </p>
+
 ---
 
 <h2 align="center">Estatísticas</h2>
