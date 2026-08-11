@@ -1,4 +1,4 @@
-<h1 align="center"> Olá mundo! Eu sou Paula Ribeiro </h1>
+<h1 align="center"> Olá, mundo! Eu sou Paula Ribeiro </h1>
 
 ---
 
