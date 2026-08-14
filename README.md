@@ -63,7 +63,7 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
 </p>
 
 ---
-
+<!--
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
