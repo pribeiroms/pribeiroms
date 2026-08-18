@@ -2,6 +2,8 @@
   <a href="README.md">English</a>
 </p>
 
+---
+
 <h1 align="center">Hello World! Eu sou Paula Ribeiro</h1>
 <p align="center">Estudante de Ciência da Computação • Desenvolvimento de Software • Oracle APEX</p>
 
@@ -64,4 +66,20 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
   <img alt="Docker" title="Docker" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;&nbsp;
   <img alt="Postman" title="Postman" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;&nbsp;
   <img alt="Figma" title="Figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</p>
+
+---
+
+<h2 align="center">Estatísticas</h2>
+
+<p align="center">
+<img
+height="170"
+src="https://github-readme-stats-xi-one-47.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"
+/>
+<br><br>
+<img
+height="170"
+src="https://github-readme-stats-xi-one-47.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple"
+/>
 </p>
