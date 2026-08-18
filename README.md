@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.pt-BR.md">Português</a>
+</p>
+
+---
+
 <h1 align="center">Hello World! I'm Paula Ribeiro</h1>
 <p align="center">Computer Science Student • Software Development • Oracle APEX</p>
 
