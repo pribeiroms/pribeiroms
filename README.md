@@ -1,21 +1,21 @@
-<h1 align="center"> Olá, mundo! Eu sou Paula Ribeiro </h1>
-<p align="center"> Estudante de Ciência da Computação • Desenvolvimento de Software • Oracle APEX </p>
+<h1 align="center">Hello World! I'm Paula Ribeiro</h1>
+<p align="center">Computer Science Student • Software Development • Oracle APEX</p>
 
 ---
 
-<h2 align="center"> Sobre mim </h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
 
-Estudante de Ciência da Computação no Centro Universitário IESB e estagiária de Tecnologia da Informação no Senado Federal, atuando com desenvolvimento e manutenção de aplicações web.
+Computer Science student at Centro Universitário IESB and Information Technology intern at the Federal Senate of Brazil, working with web application development and maintenance.
 
-Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além de desenvolver projetos acadêmicos e pessoais para aprofundar meus conhecimentos em desenvolvimento de software, APIs e bancos de dados.
+I currently work with Oracle APEX, SQL, PL/SQL, JavaScript, HTML, and CSS, while also developing academic and personal projects to deepen my knowledge of software development, APIs, and databases.
 
 </div>
 
 ---
 
-<h2 align="center">Linguagens</h2>
+<h2 align="center">Languages</h2>
 
 <p align="center">
   <img alt="JavaScript" title="JavaScript" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
@@ -41,7 +41,7 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
 
 ---
 
-<h2 align="center">Banco de Dados</h2>
+<h2 align="center">Databases</h2>
 
 <p align="center">
   <img alt="Oracle" title="Oracle Database" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
@@ -51,7 +51,7 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
 
 ---
 
-<h2 align="center">Ferramentas</h2>
+<h2 align="center">Tools</h2>
 
 <p align="center">
   <img alt="Git" title="Git" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;
@@ -63,18 +63,17 @@ Atualmente trabalho com Oracle APEX, SQL, PL/SQL, JavaScript, HTML e CSS, além 
 </p>
 
 ---
-<!--
+
 <h2 align="center">Estatísticas</h2>
 
 <p align="center">
 <img
 height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"
+src="https://github-readme-stats-xi-one-47.vercel.app/api?username=pribeiroms&show_icons=true&theme=midnight-purple"
 />
 <br><br>
 <img
 height="170"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple"
+src="https://github-readme-stats-xi-one-47.vercel.app/api/top-langs/?username=pribeiroms&layout=compact&theme=midnight-purple"
 />
 </p>
-
